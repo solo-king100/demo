@@ -1,0 +1,207 @@
+GET http://localhost:7007/person/Erik
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-04T121534-2.200.json
+
+###
+
+POST http://localhost:7007/person
+Content-Length: 28
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"name":"Harry",
+"age":19
+}
+
+<> 2024-03-04T121534-1.200.json
+
+###
+
+GET http://localhost:7007/person
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-04T121534.200.json
+
+###
+
+GET http://localhost:7007/person/Erik
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-04T121455.200.json
+
+###
+
+POST http://localhost:7007/person
+Content-Length: 29
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"name":"Parker",
+"age":81
+}
+
+<> 2024-03-04T120948.200.json
+
+###
+
+POST http://localhost:7007/person
+Content-Length: 28
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"name":"Harry",
+"age":19
+}
+
+<> 2024-03-04T120918.200.json
+
+###
+
+POST http://localhost:7007/person
+Content-Length: 27
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"name":"Harry"
+"age":19
+}
+
+<> 2024-03-04T120853.500.txt
+
+###
+
+POST http://localhost:7007/person
+Content-Length: 27
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"name":"Harry"
+"age":19
+}
+
+<> 2024-03-04T120820.500.txt
+
+###
+
+POST http://localhost:7007/person
+Content-Length: 27
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"name":"Peter"
+"age":23
+}
+
+<> 2024-03-04T120738.500.txt
+
+###
+
+GET http://localhost:7007/persons
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-04T120513.404.txt
+
+###
+
+POST http://localhost:7007/person
+Content-Length: 27
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"name":"Peter"
+"age":23
+}
+
+<> 2024-03-04T120421.500.txt
+
+###
+
+GET http://localhost:7007/person/Erik
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-04T120350.200.json
+
+###
+
+POST http://localhost:7007/person
+Content-Length: 27
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"name":"Peter"
+"age":23
+}
+
+<> 2024-03-04T115524.500.txt
+
+###
+
+GET http://localhost:7007/person
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-04T115451.200.json
+
+###
+
+POST http://localhost:7007/person
+Content-Length: 27
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"name":"Peter"
+"age":23
+}
+
+<> 2024-03-04T115244.500.txt
+
+###
+
+GET http://localhost:7007/person
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-04T115235.200.json
+
+###
+
